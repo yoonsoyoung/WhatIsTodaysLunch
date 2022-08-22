@@ -1,6 +1,8 @@
 # What Is Today's Lunch
 React Toy Project - What is today's lunch? (a.k.a 오점무)
 
+![image](https://user-images.githubusercontent.com/32251962/185876237-ede5ea27-63fd-416d-801b-660a73ff780c.png)
+
 ---
 
 
