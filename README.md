@@ -38,7 +38,10 @@ React Toy Project - What is today's lunch? (a.k.a 오점무)
 
 ## 3. 레이아웃 및 디자인
 - 와이어프레임 (Figma)
-< 추후 업데이트 예정 > 
+  - v0.1
+  
+    ![image](https://user-images.githubusercontent.com/32251962/185872781-38569536-68bb-42ee-aead-4428390b324e.png)
+
 
 
 
